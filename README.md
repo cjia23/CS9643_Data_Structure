@@ -18,3 +18,11 @@ To run the program, simply "python Astar.py m1.txt 0.5 1"
 sys.arg 1 represents the maze we are going to run. 
 sys.arg 2 represents the time delay for each step.
 sys.arg 3 represents the value for epsilon, refer to the wikipedia doc for th function of epsilon. 
+
+
+Sorting_Algorithm: 
+
+1. Compared the different soring algorithms, bubble sort, merge sort, insertion sort and bucket sort. 
+2. Also did some analysis on the efficiency of these algorithms. 
+3. For merge sort, also tried to find out the best threshold that could be used given different array size. 
+
